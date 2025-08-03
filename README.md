@@ -8,6 +8,7 @@ The repository is organized as follows:
   - indicators.R - Script for retrieving the indicators
   - Main_analysis.R - Core statistical analyses
   - plots.R - Focused analysis on data visualization
+  - complement.R - Calculation of interpretable coefficients (i.e., OR, IRR) and their 95% CIs
 - **data/** - Supplementary materials and datasets
   - Supplementary Material 1.xlsx - Aggreagated bibliometric and indicator data by income level and year 
   - Supplementary Material 2.xlsx - Regression results
